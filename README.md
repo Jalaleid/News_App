@@ -1,16 +1,7 @@
-# news_app
+A news app using Flutter and API is a mobile application that uses the Flutter framework to build a user interface and the News API to fetch news articles. The app can be used to read news articles from a variety of sources.
 
-A new Flutter project.
+in this app used:
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Simple UI
+Handling API
+State Management Bloc(Cubit)
