@@ -2,6 +2,7 @@ A news app using Flutter and API is a mobile application that uses the Flutter f
 
 in this app used:
 
-Simple UI
-Handling API
-State Management Bloc(Cubit)
+Simple UI,
+ ,Handling API (Dio Helper)
+ ,Shared Preferences (Cache helper)
+ ,State Management Bloc(Cubit).
