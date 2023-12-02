@@ -1,11 +1,15 @@
-A news app using Flutter and API is a mobile application that uses the Flutter framework to build a user interface and the News API to fetch news articles. The app can be used to read news articles from a variety of sources.
+News_App is a mobile application built using Flutter framework and integrated with the News API. It provides users with a simple and intuitive user interface to read news articles from different sources.
 
-in this app used:
+Features
+Simple UI: The app has a clean and user-friendly interface, making it easy for users to navigate and read news articles.
+API Integration: News_App utilizes the News API to fetch the latest news articles from various sources.
+Dio Helper: The app handles API requests and responses efficiently using the Dio HTTP client.
+Cache Helper: Shared Preferences is used for caching, allowing users to access previously fetched news articles even when offline.
+State Management: The app utilizes the Bloc/Cubit state management pattern to manage the application's state effectively.
 
-1.Simple UI.
 
-2.Handling API (Dio Helper).
+Contact
+For any inquiries or further information, please contact the author:
 
-3.Shared Preferences (Cache helper).
-
-4.State Management Bloc(Cubit).
+Name: Jalal Eid
+Email: jalaleid.136@gmail.com
